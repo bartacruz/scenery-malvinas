@@ -1,0 +1,12 @@
+# piers_w060s60_w060s53_1968498
+# do not edit below this line
+# Last Written Tue Apr  2 13:30:32 2019
+#
+OBJECT_STATIC w060s60_w060s53_1968498piers0406.ac -59.36840 -52.13317 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.36714 -52.13092 0.00 135.236
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.36734 -52.13110 0.00 -44.042
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.36734 -52.13110 0.00 -44.042
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.36714 -52.13092 0.00 135.236
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.36714 -52.13092 0.00 135.236
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.36714 -52.13092 0.00 135.236
+# END piers_w060s60_w060s53_1968498

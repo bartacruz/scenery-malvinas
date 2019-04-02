@@ -1,0 +1,18 @@
+# piers_w060s60_w060s52_1968539
+# do not edit below this line
+# Last Written Tue Apr  2 13:32:29 2019
+#
+OBJECT_STATIC w060s60_w060s52_1968539piers0503.ac -59.09137 -51.56208 0.00 0
+OBJECT_STATIC w060s60_w060s52_1968539piers0702.ac -59.03369 -51.58006 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.03034 -51.57681 -0.00 -121.519
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.03055 -51.57666 -0.00 58.7269
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.03055 -51.57666 -0.00 58.7269
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.03055 -51.57666 -0.00 58.7269
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.03034 -51.57681 -0.00 -121.519
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.03034 -51.57681 -0.00 -121.519
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -59.03034 -51.57681 -0.00 -121.519
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -59.07970 -51.56291 -0.00 77.4945
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -59.07977 -51.56269 -0.00 257.352
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -59.07970 -51.56291 -0.00 77.4945
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -59.07970 -51.56291 -0.00 77.4945
+# END piers_w060s60_w060s52_1968539

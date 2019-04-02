@@ -1,0 +1,13 @@
+# osm2roads_w070s60_w068s55_1837298
+# do not edit below this line
+# Last Written Tue Apr  2 15:35:04 2019
+#
+OBJECT_ROAD_DETAILED w070s60_w068s55_1837298roads0805.ac -67.23959 -54.15118 45.38 0
+# END osm2roads_w070s60_w068s55_1837298
+# osm2roads_w070s60_w068s55_1837299
+# do not edit below this line
+# Last Written Tue Apr  2 15:38:27 2019
+#
+OBJECT_ROAD_DETAILED w070s60_w068s55_1837299roads0100.ac -67.20404 -54.24102 36.90 0
+OBJECT_ROAD_ROUGH w070s60_w068s55_1837299roads_rough0003.ac -67.23468 -54.18711 42.53 0
+# END osm2roads_w070s60_w068s55_1837299

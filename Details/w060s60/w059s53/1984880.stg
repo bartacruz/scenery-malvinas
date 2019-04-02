@@ -1,0 +1,8 @@
+# piers_w060s60_w059s53_1984880
+# do not edit below this line
+# Last Written Tue Apr  2 13:31:46 2019
+#
+OBJECT_STATIC w060s60_w059s53_1984880piers0402.ac -58.86840 -52.20506 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -58.85551 -52.20660 0.00 -46.7525
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -58.85491 -52.20678 0.00 193.83
+# END piers_w060s60_w059s53_1984880

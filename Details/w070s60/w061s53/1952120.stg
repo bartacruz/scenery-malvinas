@@ -1,0 +1,9 @@
+# piers_w070s60_w061s53_1952120
+# do not edit below this line
+# Last Written Tue Apr  2 13:30:20 2019
+#
+OBJECT_STATIC w070s60_w061s53_1952120piers0501.ac -60.83961 -52.09804 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -60.83037 -52.09915 0.00 26.4089
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -60.83068 -52.09905 0.00 206.411
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -60.83037 -52.09915 0.00 26.4089
+# END piers_w070s60_w061s53_1952120

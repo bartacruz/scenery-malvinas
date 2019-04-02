@@ -1,0 +1,7 @@
+OBJECT_BASE 1968539.btg
+OBJECT SFPC.btg
+OBJECT_SHARED Models/Airport/windsock.xml -59.003727 -51.500304 20.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -59.002227 -51.500642 21.5 0.00
+OBJECT SFSC.btg
+OBJECT_SHARED Models/Airport/windsock.xml -59.041389 -51.574710 9.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -59.040551 -51.575034 9.5 0.00

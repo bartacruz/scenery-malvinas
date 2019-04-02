@@ -1,0 +1,4 @@
+OBJECT_BASE 1984904.btg
+OBJECT SFDW.btg
+OBJECT_SHARED Models/Airport/windsock.xml -58.982399 -51.820606 20.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -58.983124 -51.820146 20.9 0.00

@@ -1,0 +1,14 @@
+# piers_w070s60_w068s55_1837274
+# do not edit below this line
+# Last Written Tue Apr  2 15:33:53 2019
+#
+OBJECT_STATIC w070s60_w068s55_1837274piers0806.ac -67.23720 -54.50821 0.00 0
+# END piers_w070s60_w068s55_1837274
+# piers_w070s60_w068s55_1837275
+# do not edit below this line
+# Last Written Tue Apr  2 15:37:06 2019
+#
+OBJECT_STATIC w070s60_w068s55_1837275piers0005.ac -67.23454 -54.52618 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -67.23312 -54.52620 27.94 63.2398
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -67.23258 -54.52676 27.96 2.61251
+# END piers_w070s60_w068s55_1837275

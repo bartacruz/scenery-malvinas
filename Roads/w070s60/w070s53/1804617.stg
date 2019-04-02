@@ -1,0 +1,7 @@
+# osm2roads_w070s60_w070s53_1804617
+# do not edit below this line
+# Last Written Tue Apr  2 14:49:38 2019
+#
+OBJECT_ROAD_DETAILED w070s60_w070s53_1804617roads0604.ac -69.55720 -52.79412 52.25 0
+OBJECT_ROAD_ROUGH w070s60_w070s53_1804617roads_rough0700.ac -69.52754 -52.86601 141.20 0
+# END osm2roads_w070s60_w070s53_1804617
